@@ -1,7 +1,11 @@
 // What will be the result and why?
 
 // 1. "" + 1 + 0
+// Answer: 10
+// Desc: number 1 and 0 converts to string and concats
 // 2. "" - 1 + 0
+// Answer:
+// Desc:
 // 3. true + false
 // Answer: 1
 // Desc: true = 1, false = 0
